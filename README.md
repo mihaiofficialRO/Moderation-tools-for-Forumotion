@@ -1,5 +1,5 @@
 <h1>Moderation tools for Forumotion</h1>
-<img src"https://i58.servimg.com/u/f58/11/80/17/98/screen10.jpg">
+<img src"https://i58.servimg.com/u/f58/11/80/17/98/screen10.jpg">test
 
 [img]https://i.imgur.com/To5XsDk.jpg[/img]
 [img]https://i.imgur.com/KI1mixR.png[/img]
