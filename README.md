@@ -6,7 +6,7 @@ https://camo.githubusercontent.com/76488b6de5b303a23f42917ff92af66a4690bd4f66642
 [img]https://i.imgur.com/KI1mixR.png[/img]
 
 <h1>Instalation</h1>
-Go to:
+Go to:<br>
 ACP > Modules > HTML & Javascript -> Javascript codes management > Create a new javascript<br><br>
 Title: Moderation tools for Forumotion<br>
 Code: https://github.com/mihaiofficialRO/Moderation-tools-for-Forumotion/blob/master/example.js<br>
