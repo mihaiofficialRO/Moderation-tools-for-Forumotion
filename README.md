@@ -1,7 +1,6 @@
 <h1>Moderation tools for Forumotion</h1>
-![To5XsDk](https://github.com/mihaiofficialRO/Moderation-tools-for-Forumotion/assets/29628232/8808403b-55fb-487f-aff8-6f4c8678a8f9)
-![KI1mixR](https://github.com/mihaiofficialRO/Moderation-tools-for-Forumotion/assets/29628232/8058ba97-07fc-413d-abfe-5e9dbd29b6cc)
-
+https://i.imgur.com/To5XsDk.jpg
+https://i.imgur.com/KI1mixR.png
 
 <h1>Instalation</h1><br>
 Go to:
