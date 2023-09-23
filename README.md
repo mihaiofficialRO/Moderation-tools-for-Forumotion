@@ -1,11 +1,12 @@
 <h1>Moderation tools for Forumotion</h1>
+(https://github.com/mihaiofficialRO/Moderation-tools-for-Forumotion/assets/29628232/e9c76747-1170-4ba0-b414-d6cafd97d53f)
+
 [img]https://i.imgur.com/To5XsDk.jpg[/img]
 [img]https://i.imgur.com/KI1mixR.png[/img]
 
 <h1>Instalation</h1><br>
 Go to:
 ACP > Modules > HTML & Javascript -> Javascript codes management > Create a new javascript
-
 
 Title: Moderation tools for Forumotion<br>
 Code: https://github.com/mihaiofficialRO/Moderation-tools-for-Forumotion/blob/master/example.js<br>
