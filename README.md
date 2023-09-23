@@ -1,6 +1,6 @@
 <h1>Moderation tools for Forumotion</h1>
-https://i.imgur.com/To5XsDk.jpg
-https://i.imgur.com/KI1mixR.png
+[img]https://i.imgur.com/To5XsDk.jpg[/img]
+[img]https://i.imgur.com/KI1mixR.png[/img]
 
 <h1>Instalation</h1><br>
 Go to:
