@@ -1,5 +1,6 @@
 <h1>Moderation tools for Forumotion</h1>
-<img src"https://i58.servimg.com/u/f58/11/80/17/98/screen10.jpg">test
+![test](https://github.com/mihaiofficialRO/Moderation-tools-for-Forumotion/assets/29628232/7acbaed7-3a85-4a3c-956d-60e3f5668557)
+
 
 [img]https://i.imgur.com/To5XsDk.jpg[/img]
 [img]https://i.imgur.com/KI1mixR.png[/img]
