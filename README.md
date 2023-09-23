@@ -8,7 +8,7 @@ ACP > Modules > HTML & Javascript -> Javascript codes management > Create a new 
 
 
 Title: Moderation tools for Forumotion
-Code: https://github.com/zeusmaximus/Moderation-tools-for-Forumotion/blob/master/example.js
+Code: [https://github.com/zeusmaximus/Moderation-tools-for-Forumotion/](https://github.com/mihaiofficialRO/Moderation-tools-for-Forumotion)blob/master/example.js
 Placement: In the all pages
 
 Documentation
