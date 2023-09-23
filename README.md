@@ -1,5 +1,5 @@
 <h1>Moderation tools for Forumotion</h1>
-![Moderation-tools-for-Forumotion](https://github.com/mihaiofficialRO/Moderation-tools-for-Forumotion/assets/29628232/833cfdac-0ce8-4ce3-8bcd-33a9f7a02115)
+![Moderation-tools-for-Forumotion]([img]https://github.com/mihaiofficialRO/Moderation-tools-for-Forumotion/assets/29628232/833cfdac-0ce8-4ce3-8bcd-33a9f7a02115[/img])
 
 <h1>Instalation</h1>
 Go to:<br>
