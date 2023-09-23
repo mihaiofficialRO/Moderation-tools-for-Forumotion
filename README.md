@@ -1,5 +1,5 @@
 <h1>Moderation tools for Forumotion</h1>
-https://github.com/mihaiofficialRO/Moderation-tools-for-Forumotion/assets/29628232/e9c76747-1170-4ba0-b414-d6cafd97d53f
+<img src"https://i58.servimg.com/u/f58/11/80/17/98/screen10.jpg">
 
 [img]https://i.imgur.com/To5XsDk.jpg[/img]
 [img]https://i.imgur.com/KI1mixR.png[/img]
